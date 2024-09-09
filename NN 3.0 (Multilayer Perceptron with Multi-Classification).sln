@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NN 3.0 (Multilayer Perceptron with Multi-Classification)", "NN 3.0 (Multilayer Perceptron with Multi-Classification).pyproj", "{243BB82A-9829-49F3-8658-BC9CF0E88545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243BB82A-9829-49F3-8658-BC9CF0E88545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243BB82A-9829-49F3-8658-BC9CF0E88545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927AAA2E-246B-4BE1-A27D-65F30480E6FC}
+	EndGlobalSection
+EndGlobal
